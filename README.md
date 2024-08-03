@@ -1,6 +1,6 @@
 # **CodSoft**
 <br>
-<br>
+
 **PROJECT/TASK-1**
 <br>
 **🎮 Tic Tac Toe AI Game with Alpha-Beta Pruning 🧠**
@@ -19,7 +19,9 @@ Welcome to the Tic Tac Toe AI game project!🤖✨ Dive into a classic game reim
 <br>
 <br>
 ![Screenshot (1651)](https://github.com/user-attachments/assets/74d449c9-fc5d-447f-a78a-312a24d361ac)
+<br>
 ![Screenshot (1652)](https://github.com/user-attachments/assets/186e7f8f-2336-4d39-b145-ff646123ff3e)
+<br>
 ![Screenshot (1653)](https://github.com/user-attachments/assets/ce194b14-30d9-411f-8af5-f300883effa8)
 <br>
 <br>
