@@ -7,6 +7,7 @@
 <br>
 Welcome to the Tic Tac Toe AI game project!🤖✨ Dive into a classic game reimagined with cutting-edge AI, powered by the Minimax algorithm and optimized with alpha-beta pruning. Challenge yourself against an intelligent AI opponent that makes every move count!
 <br>
+<br>
 **🌟 Features**
 <br>
 **Smart AI Opponent:** Our AI opponent uses the Minimax algorithm with alpha-beta pruning to make strategic moves, providing a tough challenge for any player.
@@ -14,6 +15,7 @@ Welcome to the Tic Tac Toe AI game project!🤖✨ Dive into a classic game reim
 **Sleek Interface:** Enjoy a sleek game board with a brown background and crisp white lines.
 <br>
 **Game End Messages:** At the end of the game, a message is displayed on a blue background indicating the winner or if the game ended in a draw.
+<br>
 <br>
 **📸 Screenshots**
 <br>
