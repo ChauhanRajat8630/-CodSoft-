@@ -70,4 +70,10 @@ Welcome to the Movie Recommendation System project! This repository contains a c
 ![Screenshot (1659)](https://github.com/user-attachments/assets/9afd55e6-d6c4-4dfd-b43b-91105d90e98e)
 <br>
 <br>
+**Dataset has been used**
+<br>
+
+https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
+
+<br>
 Dive into a world of movies like never before and find your next favorite film with our Movie Recommendation System! 🎥🍿
