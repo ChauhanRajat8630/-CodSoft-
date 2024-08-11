@@ -1,7 +1,7 @@
-# **CodSoft**
+# **Tic Tac Toe AI Game**
 <br>
 
-**PROJECT/TASK-1**
+**PROJECT-1**
 <br>
 **🎮 Tic Tac Toe AI Game with Alpha-Beta Pruning 🧠**
 <br>
